@@ -55,6 +55,7 @@
 - Malipeddi Jitesh
 - Shani Rub
 - wrecKING Tsukinoryoshu
+- [Vijit Shrivasatava] (https://github.com/widget10)
 - [Estevao Moreno](https://github.com/estevaoTm)
 - [Harsh Gahlot](https://github.com/Euno257)
 - [Nishant Mittal](https://github.com/nishantmittal59)
